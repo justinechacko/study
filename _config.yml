@@ -17,7 +17,7 @@ title: പഠനം
 email: contact@justinechacko.in
 description: > # this means to ignore newlines until "baseurl:"
   Study Materials.
-baseurl: "/study" 
+baseurl: "" 
 url: "" 
 
 # Build settings
